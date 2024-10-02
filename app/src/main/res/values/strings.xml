@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">G7S21_DDIM_ACTII_SAVL</string>
+    <string name="elegir" translatable="false">Introduce el nombre del alumno</string>
+    <string name="mostrar" translatable="false">Mostrar alumno</string>
+</resources>
